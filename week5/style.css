@@ -21,7 +21,7 @@ nav a {
 
 
 nav a:hover {
-    color: rgb(220, 220, 59);
+    color: rgb(67, 220, 59);
 }
 
 
@@ -39,7 +39,7 @@ section {
 
 
 h2 {
-    color: navy;
+    color: rgb(128, 0, 45);
 }
 
 
@@ -51,7 +51,7 @@ input, select, textarea {
 }
 
 button {
-    background-color: navy;
+    background-color: skyblue;
     color: white;
     padding: 10px;
     border: none;
@@ -78,7 +78,7 @@ th, td {
 
 
 th {
-    background-color: navy;
+    background-color: skyblue;
     color: white;
 }
 
