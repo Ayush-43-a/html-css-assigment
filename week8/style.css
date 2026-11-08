@@ -23,7 +23,7 @@ body {
 header {
     grid-area: head;
     background-color: black;
-    color: white;
+    color: rgb(218, 89, 89);
     padding: 20px;
     text-align: center;
 }
