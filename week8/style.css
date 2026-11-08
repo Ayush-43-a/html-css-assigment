@@ -30,7 +30,7 @@ header {
 
 aside {
     grid-area: side;
-    background-color: lightgray;
+    background-color: rgb(97, 231, 209);
     padding: 20px;
 }
 
